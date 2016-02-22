@@ -1,0 +1,17 @@
+{
+  "name": "bolig",
+  "version": "1.0.0",
+  "description": "parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Klimenko <romaklimenko@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^1.0.0",
+    "nodemailer": "^2.1.0",
+    "superagent": "^1.7.2"
+  }
+}
